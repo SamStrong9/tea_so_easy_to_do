@@ -1,0 +1,23 @@
+{
+  "name": "tea_so_easy_to_do",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamStrong9/tea_so_easy_to_do.git"
+  },
+  "dependencies": {
+    "tea_so_hard_to_do": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamStrong9/tea_so_easy_to_do/issues"
+  },
+  "homepage": "https://github.com/SamStrong9/tea_so_easy_to_do#readme"
+}
