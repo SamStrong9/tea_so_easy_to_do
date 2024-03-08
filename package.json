@@ -1,6 +1,6 @@
 {
   "name": "tea_so_easy_to_do",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic demonstration app",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "tea_so_hard_to_do": "1.0.0",
+    "fin_cool_tea2": "1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
